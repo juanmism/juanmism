@@ -1,16 +1,16 @@
-### Hi there 👋
+Mi nombre es Juan Miguel Sáenz, soy español, actualmente vivo en Dublín y soy graduado en Administración y Dirección de Empresas. 
 
-<!--
-**juanmism/juanmism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hace una semana comencé el Boot-camps de Full Stack Developer con 4Geeks Academic y durante el desarrollo del curso iré poniendo aquí mis repositorios de los trabajos creados.
 
-Here are some ideas to get you started:
+Mis habilidades adquiridas hasta la fecha son: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+
+CSS
+
+Bootstrap
+
+Javascript
+
+Y espero ir adquiriendo más habilidades durante el proceso de aprendizaje en 4Geeks.
+
