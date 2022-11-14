@@ -42,4 +42,5 @@ JMSM -- Juan Miguel Sáenz Martel
 
 <br><br>
 
-<a href="[https://www.linkedin.com/in/josegarciarodriguez/](https://www.linkedin.com/in/juanmism/)"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&amp;labelColor=000000&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/josegarciarodriguez/" alt="LinkedIn Badge"></a> 
+<a href="https://www.linkedin.com/in/juanmism/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&amp;labelColor=000000&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/josegarciarodriguez/" alt="LinkedIn Badge"></a> 
+
