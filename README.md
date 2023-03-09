@@ -1,5 +1,5 @@
-<h1 align = "center"> Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I’m Juan Miguel Sáenz</h1>
-<h3 align="center">🚀A passionate Full Stack Developer 🚀</h3>
+<h1 align = "center"> Hello world 🌐, I’m Juan Miguel Sáenz</h1>
+<h3 align="center">🔥 A passionate Full Stack Developer 🔥</h3>
 <p dir="auto"><animated-image data-catalyst="" style="width: 1000px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank">
@@ -27,7 +27,7 @@
       </span></animated-image></p>
 <br>
 <p>Graduated in Business Management and Administration, and after a long career in the world of finance. Less than a year ago I discovered my true passion: the world of programming. So I decided to change my career orientation and become a Full-Stack-Developer.</p>
-<p>I've currently just finished the 4Geeks Academy's 4-month Full-Stack-Developer Boot-Camps and I'm looking forward to working as a developer. </p>
+<p>I've currently just finished the 4Geeks Academy's <a href="https://4geeksacademy.com/us/index/?lang=en"> <img src="https://storage.googleapis.com/replit/images/1511936948186_53605a1f8e2f117b874504a42b735a7f.png" width="20px"> </a> 4-month Full-Stack-Developer Boot-Camps and I'm looking forward to working as a developer. </p>
 <p>I love challenges, I love programming.</p>
 <div align="center">
 <br>
@@ -54,7 +54,8 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" alt="VisualStudioCode Badge" style="vertical-align:top margin:7px 4px">
   </a>   
 </div>
-
+<br><br>
+🌍 I'm based in Dublin, Ireland. But I can work anywhere in the world, because I love to travel.
 <br><br>
 
 <a href="https://www.linkedin.com/in/juanmism/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&amp;labelColor=000000&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/juanmism/" alt="LinkedIn Badge"></a> 
